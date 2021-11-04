@@ -1,2 +1,1 @@
-# Almass-code
-Код Алмаса Ергазы, по уроку
+Code of Shooter game(2D, just shoot to falling ships)
